@@ -8,6 +8,6 @@
 ## _It was_ *a* ***nasty*** **day**
 ### ***My name is Anna.*** *I'm 18 years old.*
 ## **Who are _you_?**
--zaya 
--malysh 
--tychmo
+- zaya 
+- malysh 
+- tychmo
