@@ -11,4 +11,4 @@
 - zaya 
 - malysh 
 - tychmo
-[HSE] (hse.ru)
+[HSE] (www.hse.ru)
