@@ -4,5 +4,5 @@
 # **bold**
 ## *italic*
 ### _italic too_
-####***bold and italic***
-#####_It was_ *a* ***nasty*** **day**
+#### ***bold and italic***
+## _It was_ *a* ***nasty*** **day**
